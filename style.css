@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    }
+.lineone {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: 100%;
+    }
+
+.linetwo {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: 100%;
+    }
+
+img{
+    width:250px ;
+    height:250px ;
+    }
+#myCarousel{
+    width: 100%;
+    height:700px;
+    background: linear-gradient(#D809E8 0%,#09E8A5 45%,#B3E60A 100%);
+padding-top: 40px;
+}
+#myCarousel img{
+   width:550px ;
+    height:550px ; 
+}
